@@ -15,3 +15,12 @@ height: auto;
 p.brown {
   background-color:brown;
 }
+
+.my-class {
+  border: 2px solid green;
+  padding: 10px;
+  background-color: orange;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  box-sizing: border-box;
+}
