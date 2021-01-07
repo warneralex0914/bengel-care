@@ -7,3 +7,11 @@ width: 50%;
 height: auto;
 
 }
+
+.water li {
+  background-color: darkcyan;
+}
+
+p.brown {
+  background-color:brown;
+}
