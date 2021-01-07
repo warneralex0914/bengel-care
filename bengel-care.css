@@ -1,5 +1,6 @@
 .exotic p {
  background-color: yellow;
+ border: 2px solid green;
 }
 
 .centered-image {
@@ -9,14 +10,11 @@ height: auto;
 }
 
 .water li {
-  background-color: darkcyan;
+  background-color: yellow;
+  border: 2px solid green;
 }
 
-p.brown {
-  background-color:brown;
-}
-
-.my-class {
+.boxed-class {
   border: 2px solid green;
   padding: 10px;
   background-color: orange;
