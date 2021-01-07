@@ -1,4 +1,4 @@
-# Greenland-Iceland
+# Bengel-Care
 
 ## How to take care of a Bengel cat
 
