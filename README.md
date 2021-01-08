@@ -11,10 +11,11 @@
 - HTML
 - CSS
 * Markdown
+- Bootstrap
 
 ## Description
 
-Talks about how to properly feed, water and groom the exotic bengel.
+Talks about how to properly feed, water and groom the exotic bengel. 
 
 ## Setup
 
