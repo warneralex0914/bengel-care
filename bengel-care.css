@@ -1,19 +1,33 @@
 .exotic p {
  background-color: yellow;
  border: 2px solid green;
-}
-
-.centered-image {
-width: 50%;
-height: auto;
+ font-family:'Times New Roman';
+ font-weight: Bold;
 
 }
 
 .water li {
   background-color: yellow;
   border: 2px solid green;
+  font-family:'Times New Roman';
+  font-weight: Bold;
 }
 
+
+p.water {
+  background-color:yellow;
+  border: 2px solid green;
+  font-family:'Times New Roman';
+  font-weight: Bold;
+}
+
+h2.water {
+  background-color: yellow;
+  border: 2px solid green;
+  font-family:'Times New Roman';
+  font-weight: Bold;
+  
+}
 .boxed-class {
   border: 2px solid green;
   padding: 10px;
@@ -21,4 +35,12 @@ height: auto;
   margin-top: 20px;
   margin-bottom: 20px;
   box-sizing: border-box;
+  font-family:'Times New Roman';
+  font-weight: bold;
+}
+.center {
+  margin: auto;
+  width: 50%;
+  height: auto;
+  display: block;
 }
