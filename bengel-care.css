@@ -5,36 +5,11 @@ h2.align  {
   text-align: center;
 }
 
-.exotic p {
- background-color: yellow;
- border: 2px solid green;
- font-family:'Times New Roman';
- font-weight: Bold;
+img {
+  float: right;
+  margin-left: 20px;
 }
 
-.water li {
-  background-color: yellow;
-  border: 2px solid green;
-  font-family:'Times New Roman';
-  font-weight: Bold;
-  text-align: left;
-}
-
-
-p.water {
-  background-color:yellow;
-  border: 2px solid green;
-  font-family:'Times New Roman';
-  font-weight: Bold;
-}
-
-h2.water {
-  background-color: yellow;
-  border: 2px solid green;
-  font-family:'Times New Roman';
-  font-weight: Bold;
-  
-}
 .boxed-class {
   border: 2px solid green;
   padding: 10px;
